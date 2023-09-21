@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = micaelaschmidt47@gmail.com
+	name = micaela dauria
